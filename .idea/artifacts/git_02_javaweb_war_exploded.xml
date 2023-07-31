@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="git_02_javaweb:war exploded">
+    <output-path>$PROJECT_DIR$/git_02_javaweb/target/git_02_javaweb</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>git_02_javaweb</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="git_02_javaweb" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/git_02_javaweb/target/git_02_javaweb/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="git_02_javaweb/web/Web" />
+    </root>
+  </artifact>
+</component>

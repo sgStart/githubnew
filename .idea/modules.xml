@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/git_01_javase/git_01_javase.iml" filepath="$PROJECT_DIR$/git_01_javase/git_01_javase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git_02_javaweb/git_02_javaweb.iml" filepath="$PROJECT_DIR$/git_02_javaweb/git_02_javaweb.iml" />
+    </modules>
+  </component>
+</project>
